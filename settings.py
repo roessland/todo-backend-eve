@@ -27,3 +27,6 @@ IF_MATCH = False
 
 # Makes requests return submitted/changed object
 BANDWIDTH_SAVER = False
+
+X_DOMAINS = '*'
+X_HEADERS = ['Accept']
